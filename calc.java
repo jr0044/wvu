@@ -4,9 +4,8 @@ public class Calculator {
     }
 
 private Double calculate() {
-        if (mode == Operation.normal) {
-            return num2;
-        }
+  
+
         if (mode == Operation.add) {
             return num1 + num2;
         }
