@@ -1,0 +1,18 @@
+The operations to be supported are: 
+
+- Addition
+
+- Subtraction
+
+- Multiplication
+
+- Division
+
+- Square Root
+
+- Exponent
+
+- Conversion between the various types (octal, hexadecimal, integer, binary).
+
+Reusability
+- Strings are utilized for outputs consistently for each data type to avoid having different variables to store each type.
